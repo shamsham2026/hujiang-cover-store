@@ -1,0 +1,1 @@
+{"installCommand":"node .vercel-assemble.mjs && npm ci"}
