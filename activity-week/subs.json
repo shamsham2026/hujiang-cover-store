@@ -142,6 +142,20 @@
       "notes": "窗口內各班一節；唔使全級同步。約 60 分鐘。缺：負責老師、場地、邊日邊班時間表、物資",
       "track": "下學期活動週",
       "updatedAt": "2026-10-20T17:26:44.106Z"
+    },
+    "sem2-grad-rehearsal-0702": {
+      "title": "畢業禮總綵排",
+      "dateOrWindow": "2027-07-02",
+      "periods": [
+        "全日"
+      ],
+      "venue": "禮堂",
+      "audience": "",
+      "owner": "",
+      "hold": true,
+      "notes": "禮堂／相關場地優先預留。其他活動避開禮堂。唔入 Google Calendar。",
+      "track": "下學期活動週｜場地優先",
+      "updatedAt": "2026-10-20T17:26:52.598Z"
     }
   },
   "placements": [
@@ -3667,5 +3681,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:26:44.106Z"
+  "updatedAt": "2026-10-20T17:26:52.598Z"
 }
