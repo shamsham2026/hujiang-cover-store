@@ -61,5 +61,3185 @@
       "submitterName": "蕭"
     }
   ],
-  "updatedAt": "2026-10-20T14:57:23.291Z"
+  "revisions": {},
+  "placements": [
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-04:2A:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-04",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-04:2B:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-04",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-04:2C:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-04",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-04:2D:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-04",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-05:2A:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-05",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-05:2B:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-05",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-05:2C:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-05",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-05:2D:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-05",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-06:2A:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-06",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-06:2B:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-06",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-06:2C:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-06",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-06:2D:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-06",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-07:2A:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-07",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-07:2B:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-07",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-07:2C:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-07",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-07:2D:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-07",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-08:2A:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-08",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-08:2B:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-08",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-08:2C:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-08",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem1-p2-classroom:2026-01-08:2D:第1節",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-08",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1A:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1A:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1A:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1A:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1A:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1A:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1B:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1B:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1B:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1B:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1B:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1B:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1C:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1C:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1C:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1C:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1C:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1C:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1D:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1D:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1D:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1D:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1D:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:1D:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "1D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2A:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2A:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2A:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2A:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2A:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2A:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2B:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2B:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2B:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2B:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2B:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2B:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2C:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2C:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2C:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2C:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2C:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2C:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2D:班主任節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2D:第1節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2D:第2節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2D:第3節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2D:第4節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-p1p2-antidrug:2026-12-18:2D:第5節",
+      "entryId": "postexam-p1p2-antidrug",
+      "date": "2026-12-18",
+      "classCode": "2D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-recorder:2026-12-21:其他:第1節",
+      "entryId": "postexam-recorder",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-recorder:2026-12-21:其他:第2節",
+      "entryId": "postexam-recorder",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-recorder:2026-12-21:其他:第3節",
+      "entryId": "postexam-recorder",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-stem:2026-12-21:其他:第4節",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:postexam-stem:2026-12-21:其他:第5節",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1A:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1A:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1A:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1A:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1A:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1A:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1B:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1B:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1B:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1B:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1B:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1B:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1C:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1C:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1C:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1C:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1C:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1C:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1D:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1D:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1D:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1D:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1D:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:1D:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "1D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2A:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2A:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2A:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2A:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2A:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2A:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2B:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2B:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2B:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2B:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2B:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2B:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2C:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2C:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2C:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2C:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2C:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2C:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2D:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2D:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2D:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2D:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2D:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:2D:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "2D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3A:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3A:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3A:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3A:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3A:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3A:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3B:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3B:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3B:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3B:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3B:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3B:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3C:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3C:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3C:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3C:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3C:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3C:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3D:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3D:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3D:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3D:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3D:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:3D:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "3D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4A:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4A:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4A:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4A:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4A:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4A:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4B:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4B:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4B:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4B:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4B:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4B:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4C:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4C:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4C:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4C:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4C:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4C:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4D:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4D:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4D:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4D:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4D:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:4D:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "4D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5A:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5A:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5A:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5A:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5A:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5A:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5B:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5B:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5B:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5B:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5B:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5B:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5C:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5C:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5C:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5C:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5C:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5C:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5D:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5D:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5D:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5D:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5D:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:5D:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "5D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6A:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6A:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6A:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6A:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6A:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6A:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6B:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6B:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6B:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6B:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6B:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6B:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6C:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6C:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6C:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6C:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6C:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6C:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6D:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6D:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6D:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6D:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6D:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:6D:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "6D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:其他:班主任節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "其他",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:其他:第1節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "其他",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:其他:第2節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "其他",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:其他:第3節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "其他",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:其他:第4節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "其他",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-hall-block-0617:2026-06-17:其他:第5節",
+      "entryId": "sem2-hall-block-0617",
+      "date": "2026-06-17",
+      "classCode": "其他",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5A:班主任節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5A:第1節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5A:第2節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5A:第3節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5A:第4節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5A:第5節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5B:班主任節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5B:第1節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5B:第2節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5B:第3節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5B:第4節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5B:第5節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5C:班主任節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5C:第1節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5C:第2節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5C:第3節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5C:第4節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5C:第5節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5D:班主任節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5D:第1節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5D:第2節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5D:第3節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5D:第4節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-p5-career:2026-06-22:5D:第5節",
+      "entryId": "sem2-p5-career",
+      "date": "2026-06-22",
+      "classCode": "5D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1A:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1A:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1A:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1A:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1A:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1A:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1B:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1B:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1B:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1B:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1B:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1B:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1C:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1C:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1C:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1C:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1C:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1C:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1D:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1D:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1D:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1D:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1D:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:1D:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "1D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2A:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2A:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2A:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2A:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2A:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2A:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2B:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2B:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2B:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2B:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2B:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2B:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2C:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2C:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2C:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2C:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2C:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2C:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2D:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2D:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2D:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2D:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2D:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:2D:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "2D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3A:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3A:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3A:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3A:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3A:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3A:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3B:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3B:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3B:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3B:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3B:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3B:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3C:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3C:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3C:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3C:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3C:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3C:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3D:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3D:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3D:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3D:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3D:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:3D:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "3D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4A:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4A:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4A:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4A:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4A:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4A:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4B:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4B:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4B:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4B:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4B:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4B:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4C:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4C:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4C:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4C:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4C:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4C:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4D:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4D:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4D:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4D:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4D:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:4D:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "4D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5A:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5A:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5A:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5A:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5A:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5A:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5B:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5B:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5B:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5B:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5B:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5B:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5C:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5C:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5C:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5C:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5C:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5C:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5D:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5D:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5D:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5D:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5D:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:5D:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "5D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6A:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6A",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6A:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6A",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6A:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6A",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6A:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6A",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6A:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6A",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6A:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6A",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6B:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6B",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6B:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6B",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6B:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6B",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6B:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6B",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6B:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6B",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6B:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6B",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6C:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6C",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6C:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6C",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6C:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6C",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6C:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6C",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6C:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6C",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6C:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6C",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6D:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6D",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6D:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6D",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6D:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6D",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6D:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6D",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6D:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6D",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:6D:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "6D",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:其他:班主任節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "其他",
+      "period": "班主任節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:其他:第1節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "其他",
+      "period": "第1節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:其他:第2節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "其他",
+      "period": "第2節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:其他:第3節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "其他",
+      "period": "第3節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:其他:第4節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "其他",
+      "period": "第4節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "seedplc:sem2-grad-rehearsal-0702:2026-07-02:其他:第5節",
+      "entryId": "sem2-grad-rehearsal-0702",
+      "date": "2026-07-02",
+      "classCode": "其他",
+      "period": "第5節",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "placementsSeeded": true,
+  "updatedAt": "2026-10-20T15:48:10.158Z"
 }
