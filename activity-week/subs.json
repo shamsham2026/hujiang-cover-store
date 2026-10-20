@@ -114,6 +114,20 @@
       "notes": "窗口內每日可；唔使全級同步。約 30 分鐘。缺：主題、物資",
       "track": "上學期活動週",
       "updatedAt": "2026-10-20T17:25:16.813Z"
+    },
+    "sem2-hall-block-0617": {
+      "title": "禮堂全日不用／封鎖",
+      "dateOrWindow": "2027-06-17",
+      "periods": [
+        "全日"
+      ],
+      "venue": "禮堂",
+      "audience": "",
+      "owner": "",
+      "hold": true,
+      "notes": "缺：年份確認（暫2026）、封鎖原因／佔用方",
+      "track": "下學期活動週｜場地封鎖",
+      "updatedAt": "2026-10-20T17:26:32.982Z"
     }
   },
   "placements": [
@@ -3639,5 +3653,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:26:25.500Z"
+  "updatedAt": "2026-10-20T17:26:32.982Z"
 }
