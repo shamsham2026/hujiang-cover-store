@@ -3308,8 +3308,16 @@
       "classCode": "3A",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:18:12.102Z"
+    },
+    {
+      "id": "plc-mvgy5oh9-24ivpk",
+      "entryId": "postexam-recorder",
+      "date": "2026-12-21",
+      "classCode": "3A",
+      "period": "第3節",
+      "updatedAt": "2026-10-20T17:18:13.293Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:12.102Z"
+  "updatedAt": "2026-10-20T17:18:13.293Z"
 }
