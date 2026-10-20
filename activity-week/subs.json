@@ -90,6 +90,20 @@
       "notes": "缺：對象級別／班別、物資",
       "track": "期考後時間表",
       "updatedAt": "2026-10-20T17:15:44.016Z"
+    },
+    "postexam-p4-riliji": {
+      "title": "P4曆奇",
+      "dateOrWindow": "2026-12-17",
+      "periods": [
+        "全日"
+      ],
+      "venue": "操場",
+      "audience": "小四全級",
+      "owner": "雪、高",
+      "hold": true,
+      "notes": "缺：負責老師、時長、場地、時段、物資／形式、外聘／申請",
+      "track": "期考後時間表",
+      "updatedAt": "2026-10-20T17:16:19.015Z"
     }
   },
   "placements": [
@@ -3271,5 +3285,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:15:44.016Z"
+  "updatedAt": "2026-10-20T17:16:19.015Z"
 }
