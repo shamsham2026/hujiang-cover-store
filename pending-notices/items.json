@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "wf-yuan-2026-10-20",
+      "receivedAt": "2026-10-20T07:55:10+08:00",
+      "teacher": "袁潔儀",
+      "kinds": [
+        "安排代課"
+      ],
+      "reason": "外出參加工作坊",
+      "dateRaw": "24-11-2026",
+      "dateIso": "2026-11-24",
+      "periods": "全日",
+      "other": "看看可否補回6 A視藝",
+      "status": "pending",
+      "source": "whatsform",
+      "gmailId": "1a156973136d063e",
+      "createdAt": "2026-10-21T06:33:30+08:00",
+      "updatedAt": "2026-10-21T06:36:08+08:00"
+    }
+  ],
+  "updatedAt": "2026-10-20T22:36:08.187Z"
+}
