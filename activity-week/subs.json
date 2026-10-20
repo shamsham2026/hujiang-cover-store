@@ -3494,8 +3494,16 @@
       "classCode": "4C",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:20:16.246Z"
+    },
+    {
+      "id": "plc-mvgy8cfo-6o8hcy",
+      "entryId": "postexam-p4-riliji",
+      "date": "2026-12-17",
+      "classCode": "4C",
+      "period": "第3節",
+      "updatedAt": "2026-10-20T17:20:17.652Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:20:16.246Z"
+  "updatedAt": "2026-10-20T17:20:17.652Z"
 }
