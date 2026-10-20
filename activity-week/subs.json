@@ -678,14 +678,6 @@
       "updatedAt": "2026-01-01T00:00:00.000Z"
     },
     {
-      "id": "seedplc:postexam-stem:2026-12-21:其他:第4節",
-      "entryId": "postexam-stem",
-      "date": "2026-12-21",
-      "classCode": "其他",
-      "period": "第4節",
-      "updatedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "seedplc:postexam-stem:2026-12-21:其他:第5節",
       "entryId": "postexam-stem",
       "date": "2026-12-21",
@@ -3351,5 +3343,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:35.618Z"
+  "updatedAt": "2026-10-20T17:18:38.570Z"
 }
