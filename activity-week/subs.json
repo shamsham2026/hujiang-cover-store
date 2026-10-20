@@ -3324,8 +3324,16 @@
       "classCode": "3B",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:18:19.499Z"
+    },
+    {
+      "id": "plc-mvgy5u8w-ja68b1",
+      "entryId": "postexam-recorder",
+      "date": "2026-12-21",
+      "classCode": "3B",
+      "period": "第3節",
+      "updatedAt": "2026-10-20T17:18:20.768Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:19.499Z"
+  "updatedAt": "2026-10-20T17:18:20.768Z"
 }
