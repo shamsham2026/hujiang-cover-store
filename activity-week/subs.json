@@ -3398,8 +3398,16 @@
       "classCode": "4D",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:20:00.564Z"
+    },
+    {
+      "id": "plc-mvgy80in-fdeop9",
+      "entryId": "postexam-p4-riliji",
+      "date": "2026-12-17",
+      "classCode": "4D",
+      "period": "第3節",
+      "updatedAt": "2026-10-20T17:20:02.207Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:20:00.564Z"
+  "updatedAt": "2026-10-20T17:20:02.207Z"
 }
