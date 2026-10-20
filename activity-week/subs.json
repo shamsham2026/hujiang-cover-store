@@ -116,6 +116,20 @@
       "notes": "約 60 分鐘。缺：實際節數／時段",
       "track": "上學期活動週",
       "updatedAt": "2026-10-20T17:16:41.308Z"
+    },
+    "sem2-p5-career": {
+      "title": "生涯規劃活動",
+      "dateOrWindow": "2026-06-22",
+      "periods": [
+        "全日"
+      ],
+      "venue": "禮堂",
+      "audience": "小五",
+      "owner": "雪",
+      "hold": true,
+      "notes": "全日。缺：負責老師、機構／主辦、物資／形式、申請／外聘",
+      "track": "下學期活動週",
+      "updatedAt": "2026-10-20T17:17:28.246Z"
     }
   },
   "placements": [
@@ -3297,5 +3311,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:16:41.308Z"
+  "updatedAt": "2026-10-20T17:17:28.246Z"
 }
