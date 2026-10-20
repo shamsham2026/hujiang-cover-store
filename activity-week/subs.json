@@ -3356,8 +3356,16 @@
       "classCode": "5A",
       "period": "第4節",
       "updatedAt": "2026-10-20T17:18:44.157Z"
+    },
+    {
+      "id": "plc-mvgy6d6t-rihsdv",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "5A",
+      "period": "第5節",
+      "updatedAt": "2026-10-20T17:18:45.317Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:44.157Z"
+  "updatedAt": "2026-10-20T17:18:45.318Z"
 }
