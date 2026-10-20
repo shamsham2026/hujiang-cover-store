@@ -3356,8 +3356,16 @@
       "classCode": "3D",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:18:24.557Z"
+    },
+    {
+      "id": "plc-mvgy5y8t-ih7tc5",
+      "entryId": "postexam-recorder",
+      "date": "2026-12-21",
+      "classCode": "3D",
+      "period": "第3節",
+      "updatedAt": "2026-10-20T17:18:25.949Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:24.557Z"
+  "updatedAt": "2026-10-20T17:18:25.949Z"
 }
