@@ -77,7 +77,7 @@
     },
     "sem1-p5-gas": {
       "title": "煤氣講座",
-      "dateOrWindow": "2026-01-04",
+      "dateOrWindow": "2027-01-04",
       "periods": [],
       "venue": "408室",
       "audience": "小五",
@@ -85,7 +85,7 @@
       "hold": true,
       "notes": "約 60 分鐘。缺：實際節數／時段",
       "track": "上學期活動週",
-      "updatedAt": "2026-10-20T17:16:41.308Z"
+      "updatedAt": "2026-10-20T17:26:14.860Z"
     },
     "sem2-p5-career": {
       "title": "生涯規劃活動",
@@ -3639,5 +3639,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:25:34.888Z"
+  "updatedAt": "2026-10-20T17:26:14.860Z"
 }
