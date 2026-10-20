@@ -44,21 +44,6 @@
       "notes": "陳姑娘會安排教材\n班主任在課室內進行活動便可",
       "submittedAt": "2026-10-20T14:53:05.645Z",
       "submitterName": "黃"
-    },
-    {
-      "id": "aw-1792507870765-xxfs4z",
-      "title": "stem講座",
-      "dateOrWindow": "2026-12-21",
-      "periods": [
-        "第4節第5節"
-      ],
-      "venue": "H 禮堂",
-      "audience": "P5",
-      "owner": "蕭",
-      "hold": true,
-      "notes": "",
-      "submittedAt": "2026-10-20T14:51:10.765Z",
-      "submitterName": "蕭"
     }
   ],
   "revisions": {
@@ -3399,5 +3384,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:19:00.491Z"
+  "updatedAt": "2026-10-20T17:19:29.017Z"
 }
