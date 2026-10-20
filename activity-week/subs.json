@@ -104,6 +104,18 @@
       "notes": "缺：負責老師、時長、場地、時段、物資／形式、外聘／申請",
       "track": "期考後時間表",
       "updatedAt": "2026-10-20T17:16:19.015Z"
+    },
+    "sem1-p5-gas": {
+      "title": "煤氣講座",
+      "dateOrWindow": "2026-01-04",
+      "periods": [],
+      "venue": "408室",
+      "audience": "小五",
+      "owner": "蕭",
+      "hold": true,
+      "notes": "約 60 分鐘。缺：實際節數／時段",
+      "track": "上學期活動週",
+      "updatedAt": "2026-10-20T17:16:41.308Z"
     }
   },
   "placements": [
@@ -3285,5 +3297,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:16:19.015Z"
+  "updatedAt": "2026-10-20T17:16:41.308Z"
 }
