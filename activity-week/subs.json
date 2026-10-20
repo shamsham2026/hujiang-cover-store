@@ -1,6 +1,21 @@
 {
   "submissions": [
     {
+      "id": "aw-1792507985645-ztw06o",
+      "title": "種族友善校園嘉許計劃",
+      "dateOrWindow": "2026-01-04 至2026-01-07",
+      "periods": [
+        "全日"
+      ],
+      "venue": "課室（沒註明＝課室）",
+      "audience": "小二",
+      "owner": "黃",
+      "hold": false,
+      "notes": "陳姑娘會安排教材\n班主任在課室內進行活動便可",
+      "submittedAt": "2026-10-20T14:53:05.645Z",
+      "submitterName": "黃"
+    },
+    {
       "id": "aw-1792507870765-xxfs4z",
       "title": "stem講座",
       "dateOrWindow": "2026-12-21",
@@ -16,5 +31,5 @@
       "submitterName": "蕭"
     }
   ],
-  "updatedAt": "2026-10-20T14:51:10.765Z"
+  "updatedAt": "2026-10-20T14:53:05.645Z"
 }
