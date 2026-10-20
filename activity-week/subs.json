@@ -104,14 +104,6 @@
   },
   "placements": [
     {
-      "id": "seedplc:sem1-p2-classroom:2026-01-04:2C:第1節",
-      "entryId": "sem1-p2-classroom",
-      "date": "2026-01-04",
-      "classCode": "2C",
-      "period": "第1節",
-      "updatedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "seedplc:sem1-p2-classroom:2026-01-05:2A:第1節",
       "entryId": "sem1-p2-classroom",
       "date": "2026-01-05",
@@ -3505,5 +3497,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:21:59.095Z"
+  "updatedAt": "2026-10-20T17:22:00.355Z"
 }
