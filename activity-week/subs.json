@@ -3396,8 +3396,16 @@
       "classCode": "5D",
       "period": "第4節",
       "updatedAt": "2026-10-20T17:18:50.725Z"
+    },
+    {
+      "id": "plc-mvgy6i9t-ww149p",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "5D",
+      "period": "第5節",
+      "updatedAt": "2026-10-20T17:18:51.905Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:50.725Z"
+  "updatedAt": "2026-10-20T17:18:51.905Z"
 }
