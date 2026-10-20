@@ -3718,8 +3718,16 @@
       "classCode": "5A",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:40:00.938Z"
+    },
+    {
+      "id": "plc-mvgyxqf6-fl9ewb",
+      "entryId": "sem1-p5-gas",
+      "date": "2027-01-04",
+      "classCode": "5B",
+      "period": "第3節",
+      "updatedAt": "2026-10-20T17:40:02.178Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:40:00.938Z"
+  "updatedAt": "2026-10-20T17:40:02.178Z"
 }
