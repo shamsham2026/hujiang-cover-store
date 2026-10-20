@@ -3542,8 +3542,16 @@
       "classCode": "2D",
       "period": "第2節",
       "updatedAt": "2026-10-20T17:22:08.306Z"
+    },
+    {
+      "id": "plc-mvgyaqxc-n46uw0",
+      "entryId": "sem1-p2-classroom",
+      "date": "2026-01-04",
+      "classCode": "2C",
+      "period": "第2節",
+      "updatedAt": "2026-10-20T17:22:09.744Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:22:08.306Z"
+  "updatedAt": "2026-10-20T17:22:09.744Z"
 }
