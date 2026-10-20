@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "id": "manual-mvh9isfj-qj6ck2",
+      "receivedAt": "2026-10-21T06:40:00+08:00",
+      "teacher": "測試老師",
+      "kinds": [
+        "安排調課"
+      ],
+      "reason": "手動新增驗收",
+      "dateRaw": "25-11-2026",
+      "dateIso": "2026-11-25",
+      "periods": "第1–2節",
+      "other": "",
+      "status": "pending",
+      "source": "manual",
+      "createdAt": "2026-10-21T06:36:20+08:00",
+      "updatedAt": "2026-10-21T06:36:20+08:00"
+    },
+    {
       "id": "wf-yuan-2026-10-20",
       "receivedAt": "2026-10-20T07:55:10+08:00",
       "teacher": "袁潔儀",
@@ -19,5 +36,5 @@
       "updatedAt": "2026-10-21T06:36:08+08:00"
     }
   ],
-  "updatedAt": "2026-10-20T22:36:08.187Z"
+  "updatedAt": "2026-10-20T22:36:20.719Z"
 }
