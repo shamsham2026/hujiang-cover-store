@@ -3462,8 +3462,16 @@
       "classCode": "4A",
       "period": "第5節",
       "updatedAt": "2026-10-20T17:20:11.156Z"
+    },
+    {
+      "id": "plc-mvgy88i3-zjxzhn",
+      "entryId": "postexam-p4-riliji",
+      "date": "2026-12-17",
+      "classCode": "4A",
+      "period": "第2節",
+      "updatedAt": "2026-10-20T17:20:12.555Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:20:11.156Z"
+  "updatedAt": "2026-10-20T17:20:12.555Z"
 }
