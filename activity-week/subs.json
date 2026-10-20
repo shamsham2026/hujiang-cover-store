@@ -3380,8 +3380,16 @@
       "classCode": "5B",
       "period": "第4節",
       "updatedAt": "2026-10-20T17:18:47.992Z"
+    },
+    {
+      "id": "plc-mvgy6gb0-lg8ysy",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "5C",
+      "period": "第4節",
+      "updatedAt": "2026-10-20T17:18:49.356Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:18:47.992Z"
+  "updatedAt": "2026-10-20T17:18:49.356Z"
 }
