@@ -1,4 +1,20 @@
 {
-  "submissions": [],
-  "updatedAt": "2026-10-20T10:33:49.728Z"
+  "submissions": [
+    {
+      "id": "aw-1792494785585-4dc6sq",
+      "title": "token-ok-check-probe",
+      "dateOrWindow": "2026-10-21",
+      "periods": [
+        "上午"
+      ],
+      "venue": "禮堂",
+      "audience": "P1",
+      "owner": "驗收Probe",
+      "hold": false,
+      "notes": "auto-probe",
+      "submittedAt": "2026-10-20T11:13:05.585Z",
+      "submitterName": "驗收Probe"
+    }
+  ],
+  "updatedAt": "2026-10-20T11:13:05.585Z"
 }
