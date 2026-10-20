@@ -61,7 +61,23 @@
       "submitterName": "蕭"
     }
   ],
-  "revisions": {},
+  "revisions": {
+    "postexam-stem": {
+      "title": "STEM 講座",
+      "dateOrWindow": "2026-12-21",
+      "periods": [
+        "第4節",
+        "第5節"
+      ],
+      "venue": "禮堂",
+      "audience": "5",
+      "owner": "蕭",
+      "hold": true,
+      "notes": "缺：對象級別／班別、內容細節",
+      "track": "期考後時間表",
+      "updatedAt": "2026-10-20T17:05:16.855Z"
+    }
+  },
   "placements": [
     {
       "id": "seedplc:sem1-p2-classroom:2026-01-04:2A:第1節",
@@ -3241,5 +3257,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T15:48:10.158Z"
+  "updatedAt": "2026-10-20T17:05:16.855Z"
 }
