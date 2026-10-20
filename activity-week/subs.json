@@ -100,6 +100,20 @@
       "notes": "全日。缺：負責老師、機構／主辦、物資／形式、申請／外聘",
       "track": "下學期活動週",
       "updatedAt": "2026-10-20T17:17:28.246Z"
+    },
+    "sem1-p2-classroom": {
+      "title": "課室活動",
+      "dateOrWindow": "2027-01-04,05,06,07",
+      "periods": [
+        "第1節"
+      ],
+      "venue": "課室",
+      "audience": "小二各班",
+      "owner": "各班班主任",
+      "hold": false,
+      "notes": "窗口內每日可；唔使全級同步。約 30 分鐘。缺：主題、物資",
+      "track": "上學期活動週",
+      "updatedAt": "2026-10-20T17:25:16.813Z"
     }
   },
   "placements": [
@@ -3625,5 +3639,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:22:44.203Z"
+  "updatedAt": "2026-10-20T17:25:16.813Z"
 }
