@@ -1,6 +1,21 @@
 {
   "submissions": [
     {
+      "id": "aw-1792508141226-30vzzi",
+      "title": "小一考試適應",
+      "dateOrWindow": "4-7/1",
+      "periods": [
+        "全日"
+      ],
+      "venue": "課室（沒註明＝課室）",
+      "audience": "小一",
+      "owner": "黃",
+      "hold": false,
+      "notes": "中文留4節\n英文留4節\n數學留2節\n人文留2節\n由科任在堂上讀卷完成上學年試卷一份(中閱中聽中作英閱英聽數人文)",
+      "submittedAt": "2026-10-20T14:55:41.226Z",
+      "submitterName": "黃"
+    },
+    {
       "id": "aw-1792507985645-ztw06o",
       "title": "種族友善校園嘉許計劃",
       "dateOrWindow": "2026-01-04 至2026-01-07",
@@ -31,5 +46,5 @@
       "submitterName": "蕭"
     }
   ],
-  "updatedAt": "2026-10-20T14:53:05.645Z"
+  "updatedAt": "2026-10-20T14:55:41.226Z"
 }
