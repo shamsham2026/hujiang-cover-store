@@ -76,6 +76,20 @@
       "notes": "缺：對象級別／班別、內容細節",
       "track": "期考後時間表",
       "updatedAt": "2026-10-20T17:05:16.855Z"
+    },
+    "postexam-recorder": {
+      "title": "木笛",
+      "dateOrWindow": "2026-12-21",
+      "periods": [
+        "頭三節"
+      ],
+      "venue": "禮堂",
+      "audience": "3",
+      "owner": "忻",
+      "hold": true,
+      "notes": "缺：對象級別／班別、物資",
+      "track": "期考後時間表",
+      "updatedAt": "2026-10-20T17:15:44.016Z"
     }
   },
   "placements": [
@@ -3257,5 +3271,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-20T17:05:16.855Z"
+  "updatedAt": "2026-10-20T17:15:44.016Z"
 }
