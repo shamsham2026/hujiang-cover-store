@@ -1,21 +1,6 @@
 {
   "submissions": [
     {
-      "id": "sub-mvi51upc-07qfrc",
-      "title": "【測試】請刪",
-      "dateOrWindow": "2099-01-01",
-      "periods": [
-        "45分鐘"
-      ],
-      "venue": "測試場地",
-      "audience": "1人",
-      "owner": "測試同事",
-      "hold": false,
-      "notes": "自動化測試，應已刪除",
-      "submittedAt": "2026-10-21T13:18:58.224Z",
-      "submitterName": "gate-test"
-    },
-    {
       "id": "aw-1792508141226-30vzzi",
       "title": "小一考試適應",
       "dateOrWindow": "4-7/1/2027",
@@ -3779,5 +3764,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T13:18:58.224Z"
+  "updatedAt": "2026-10-21T13:18:59.885Z"
 }
