@@ -1,6 +1,20 @@
 {
   "submissions": [
     {
+      "id": "sub-mvi68trv-v876aw",
+      "title": "英語嘉年華綵排",
+      "dateOrWindow": "2027-01-07 2027-01-08",
+      "periods": [
+        "全日"
+      ],
+      "venue": "禮堂",
+      "audience": "",
+      "owner": "錦",
+      "hold": true,
+      "notes": "",
+      "submittedAt": "2026-10-21T13:52:23.227Z"
+    },
+    {
       "id": "aw-1792508141226-30vzzi",
       "title": "小一考試適應",
       "dateOrWindow": "4-7/1/2027",
@@ -3764,5 +3778,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T13:18:59.885Z"
+  "updatedAt": "2026-10-21T13:52:23.227Z"
 }
