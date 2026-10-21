@@ -160,6 +160,20 @@
       "notes": "禮堂／相關場地優先預留。其他活動避開禮堂。唔入 Google Calendar。",
       "track": "下學期活動週｜場地優先",
       "updatedAt": "2026-10-20T17:26:52.598Z"
+    },
+    "postexam-p1p2-antidrug": {
+      "title": "禁毒活動",
+      "dateOrWindow": "2026-12-18",
+      "periods": [
+        "全日"
+      ],
+      "venue": "禮堂",
+      "audience": "小一至小二",
+      "owner": "",
+      "hold": true,
+      "notes": "來源：上學期期考後時間表（Sham 2026-10-21）。場地 H＝禮堂；六節全滿。",
+      "track": "期考後時間表",
+      "updatedAt": "2026-10-21T10:20:30.274Z"
     }
   },
   "placements": [
@@ -3749,5 +3763,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T10:20:27.746Z"
+  "updatedAt": "2026-10-21T10:20:30.274Z"
 }
