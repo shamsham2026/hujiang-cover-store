@@ -43,9 +43,9 @@
       "audience": "5",
       "owner": "蕭",
       "hold": true,
-      "notes": "缺：對象級別／班別、內容細節",
+      "notes": "來源：上學期期考後時間表（Sham 2026-10-21）。場地 H。",
       "track": "期考後時間表",
-      "updatedAt": "2026-10-20T17:05:16.855Z"
+      "updatedAt": "2026-10-21T10:20:35.994Z"
     },
     "postexam-recorder": {
       "title": "木笛",
@@ -3764,5 +3764,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T10:20:33.099Z"
+  "updatedAt": "2026-10-21T10:20:35.994Z"
 }
