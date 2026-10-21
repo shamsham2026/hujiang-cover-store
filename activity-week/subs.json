@@ -1,6 +1,20 @@
 {
   "submissions": [
     {
+      "id": "sub-mvi6a5to-esess5",
+      "title": "音樂會拍攝造型照",
+      "dateOrWindow": "2027-01-05 2027-01-06",
+      "periods": [
+        "全日"
+      ],
+      "venue": "H 禮堂",
+      "audience": "",
+      "owner": "羅",
+      "hold": true,
+      "notes": "",
+      "submittedAt": "2026-10-21T13:53:25.500Z"
+    },
+    {
       "id": "sub-mvi68trv-v876aw",
       "title": "英語嘉年華綵排",
       "dateOrWindow": "2027-01-07 2027-01-08",
@@ -3778,5 +3792,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T13:52:23.227Z"
+  "updatedAt": "2026-10-21T13:53:25.500Z"
 }
