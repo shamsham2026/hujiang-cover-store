@@ -51,15 +51,16 @@
       "title": "木笛",
       "dateOrWindow": "2026-12-21",
       "periods": [
-        "頭三節"
+        "第2節",
+        "第3節"
       ],
       "venue": "禮堂",
       "audience": "3",
       "owner": "忻",
       "hold": true,
-      "notes": "缺：對象級別／班別、物資",
+      "notes": "來源：上學期期考後時間表（Sham 2026-10-21）。班主任節／第1節無；場地 H。",
       "track": "期考後時間表",
-      "updatedAt": "2026-10-20T17:15:44.016Z"
+      "updatedAt": "2026-10-21T10:20:33.099Z"
     },
     "postexam-p4-riliji": {
       "title": "P4曆奇",
@@ -3763,5 +3764,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T10:20:30.274Z"
+  "updatedAt": "2026-10-21T10:20:33.099Z"
 }
