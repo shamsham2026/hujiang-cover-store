@@ -3805,8 +3805,24 @@
       "classCode": "其他",
       "period": "第3節",
       "updatedAt": "2026-10-21T14:16:08.075Z"
+    },
+    {
+      "id": "plc-mvi73f5o-d0w5y5",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第4節",
+      "updatedAt": "2026-10-21T14:16:10.620Z"
+    },
+    {
+      "id": "plc-mvi73f5o-4ltygx",
+      "entryId": "postexam-stem",
+      "date": "2026-12-21",
+      "classCode": "其他",
+      "period": "第5節",
+      "updatedAt": "2026-10-21T14:16:10.620Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-21T14:16:08.075Z"
+  "updatedAt": "2026-10-21T14:16:10.620Z"
 }
