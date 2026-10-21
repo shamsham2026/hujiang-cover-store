@@ -3824,6 +3824,12 @@
     }
   ],
   "placementsSeeded": true,
-  "blockedDates": [],
-  "updatedAt": "2026-10-21T16:49:13.505Z"
+  "blockedDates": [
+    {
+      "date": "2027-01-07",
+      "reason": "行政鎖定",
+      "updatedAt": "2026-10-21T16:55:42.176Z"
+    }
+  ],
+  "updatedAt": "2026-10-21T16:55:42.176Z"
 }
