@@ -1,6 +1,20 @@
 {
   "submissions": [
     {
+      "id": "sub-mviskt8k-0x5lp0",
+      "title": "verify-classroom-ok",
+      "dateOrWindow": "2027-01-06",
+      "periods": [
+        "第1節"
+      ],
+      "venue": "課室",
+      "audience": "",
+      "owner": "verify-bot",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-22T00:17:33.956Z"
+    },
+    {
       "id": "sub-mvi6a5to-esess5",
       "title": "音樂會拍攝造型照",
       "dateOrWindow": "2027-01-05 2027-01-06",
@@ -3832,5 +3846,5 @@
       "updatedAt": "2026-10-22T00:17:30.098Z"
     }
   ],
-  "updatedAt": "2026-10-22T00:17:30.098Z"
+  "updatedAt": "2026-10-22T00:17:33.956Z"
 }
