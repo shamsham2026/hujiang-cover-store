@@ -3838,13 +3838,6 @@
     }
   ],
   "placementsSeeded": true,
-  "blockedVenues": [
-    {
-      "date": "2027-01-06",
-      "venue": "禮堂",
-      "reason": "deploy-verify-temp",
-      "updatedAt": "2026-10-22T00:17:30.098Z"
-    }
-  ],
-  "updatedAt": "2026-10-22T00:17:33.956Z"
+  "blockedVenues": [],
+  "updatedAt": "2026-10-22T00:17:36.730Z"
 }
