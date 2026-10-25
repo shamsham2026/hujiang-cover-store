@@ -1,18 +1,18 @@
 {
   "submissions": [
     {
-      "id": "sub-mvnqabx8-f8m6nn",
-      "title": "【測試】並行B",
+      "id": "sub-mvnqaceb-nivs3m",
+      "title": "【測試】並行A",
       "dateOrWindow": "2027-07-08",
       "periods": [
         "全日"
       ],
       "venue": "",
       "audience": "",
-      "owner": "測試B",
+      "owner": "測試A",
       "hold": false,
       "notes": "",
-      "submittedAt": "2026-10-25T11:12:16.605Z"
+      "submittedAt": "2026-10-25T11:12:17.220Z"
     },
     {
       "id": "sub-mvi6a5to-esess5",
@@ -3838,5 +3838,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-25T11:12:16.605Z"
+  "updatedAt": "2026-10-25T11:12:17.220Z"
 }
