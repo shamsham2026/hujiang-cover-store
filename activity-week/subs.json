@@ -1,21 +1,6 @@
 {
   "submissions": [
     {
-      "id": "sub-mvnpxyxe-p1l4zg",
-      "title": "【測試】連結檢查",
-      "dateOrWindow": "2027-01-08",
-      "periods": [
-        "全日"
-      ],
-      "venue": "課室",
-      "audience": "初小",
-      "owner": "測試老師",
-      "hold": false,
-      "notes": "自動化測試，稍後會刪除",
-      "submittedAt": "2026-10-25T11:02:39.890Z",
-      "submitterName": "測試"
-    },
-    {
       "id": "sub-mvi6a5to-esess5",
       "title": "音樂會拍攝造型照",
       "dateOrWindow": "2027-01-05 2027-01-06",
