@@ -1,6 +1,20 @@
 {
   "submissions": [
     {
+      "id": "sub-mvnqdmyc-4r2id9",
+      "title": "【測試】並行C2",
+      "dateOrWindow": "2027-07-09",
+      "periods": [
+        "全日"
+      ],
+      "venue": "",
+      "audience": "",
+      "owner": "測試C",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-25T11:14:50.868Z"
+    },
+    {
       "id": "sub-mvnqdlx7-pushfu",
       "title": "【測試】並行A2",
       "dateOrWindow": "2027-07-09",
@@ -3866,5 +3880,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-25T11:14:49.531Z"
+  "updatedAt": "2026-10-25T11:14:50.868Z"
 }
