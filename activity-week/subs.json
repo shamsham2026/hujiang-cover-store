@@ -1,6 +1,20 @@
 {
   "submissions": [
     {
+      "id": "sub-mvnqabx8-f8m6nn",
+      "title": "【測試】並行B",
+      "dateOrWindow": "2027-07-08",
+      "periods": [
+        "全日"
+      ],
+      "venue": "",
+      "audience": "",
+      "owner": "測試B",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-25T11:12:16.605Z"
+    },
+    {
       "id": "sub-mvi6a5to-esess5",
       "title": "音樂會拍攝造型照",
       "dateOrWindow": "2027-01-05 2027-01-06",
@@ -3824,5 +3838,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-25T11:02:39.890Z"
+  "updatedAt": "2026-10-25T11:12:16.605Z"
 }
