@@ -3789,16 +3789,8 @@
       "classCode": "5D",
       "period": "第3節",
       "updatedAt": "2026-10-20T17:40:05.279Z"
-    },
-    {
-      "id": "plc-mvi73d6z-qo6q7b",
-      "entryId": "postexam-recorder",
-      "date": "2026-12-21",
-      "classCode": "其他",
-      "period": "第2節",
-      "updatedAt": "2026-10-21T14:16:08.075Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-27T09:27:44.577Z"
+  "updatedAt": "2026-10-27T09:27:46.335Z"
 }
