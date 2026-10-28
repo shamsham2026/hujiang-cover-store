@@ -87,7 +87,7 @@
       "audience": "小一",
       "owner": "黃",
       "hold": false,
-      "notes": "中文留4節\n英文留4節\n數學留2節\n人文留2節\n由科任在堂上讀卷完成上學年試卷一份(中閱中聽中作英閱英聽數人文)",
+      "notes": "ZZRACE探測備註",
       "submittedAt": "2026-10-20T14:55:41.226Z",
       "submitterName": "黃"
     },
@@ -3840,5 +3840,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T10:15:09.005Z"
+  "updatedAt": "2026-10-28T10:15:17.437Z"
 }
