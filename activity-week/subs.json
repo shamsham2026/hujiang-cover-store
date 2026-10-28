@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvs7xif4-18bxt2",
+      "title": "預備放榜",
+      "dateOrWindow": "2027-07-05",
+      "periods": [
+        "頭三節"
+      ],
+      "venue": "會議室",
+      "audience": "",
+      "owner": "玉",
+      "subjectTeachers": "玉錦馬程莊莉",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-28T14:37:16.288Z",
+      "submitterName": "升中"
+    },
+    {
       "id": "sub-mvs7wc0v-tub4lh",
       "title": "準備放榜",
       "dateOrWindow": "2027-07-06",
@@ -3854,5 +3870,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T14:36:21.343Z"
+  "updatedAt": "2026-10-28T14:37:16.288Z"
 }
