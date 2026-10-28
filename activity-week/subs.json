@@ -1,22 +1,6 @@
 {
   "submissions": [
     {
-      "id": "sub-mvrykf65-raqcym",
-      "title": "ZZRACE",
-      "dateOrWindow": "2027-06-23",
-      "periods": [
-        "第3節"
-      ],
-      "venue": "405室",
-      "audience": "P.5",
-      "owner": "race",
-      "subjectTeachers": "",
-      "hold": false,
-      "notes": "race",
-      "submittedAt": "2026-10-28T10:15:09.005Z",
-      "submitterName": "race"
-    },
-    {
       "id": "sub-mvrw1y07-hj9fef",
       "title": "訓輔講座",
       "dateOrWindow": "2027-01-04",
@@ -3840,5 +3824,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T10:15:17.437Z"
+  "updatedAt": "2026-10-28T10:15:38.607Z"
 }
