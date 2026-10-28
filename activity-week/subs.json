@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvrw1y07-hj9fef",
+      "title": "訓輔講座",
+      "dateOrWindow": "2027-01-04",
+      "periods": [
+        "頭三節"
+      ],
+      "venue": "H 禮堂",
+      "audience": "P.1、P.2、P.3、P.4、P.5、P.6、初小、高小",
+      "owner": "袁",
+      "subjectTeachers": "袁",
+      "hold": true,
+      "notes": "分兩場袁會處埋",
+      "submittedAt": "2026-10-28T09:04:47.719Z",
+      "submitterName": "訓輔"
+    },
+    {
       "id": "sub-mvrw0qvl-oulsv2",
       "title": "煤氣講座",
       "dateOrWindow": "2027-01-04",
@@ -3808,5 +3824,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T09:03:51.825Z"
+  "updatedAt": "2026-10-28T09:04:47.719Z"
 }
