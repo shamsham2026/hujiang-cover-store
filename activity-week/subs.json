@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvs7wc0v-tub4lh",
+      "title": "準備放榜",
+      "dateOrWindow": "2027-07-06",
+      "periods": [
+        "頭三節"
+      ],
+      "venue": "會議室",
+      "audience": "P6班主任",
+      "owner": "玉",
+      "subjectTeachers": "馬程莊莉玉錦",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-28T14:36:21.343Z",
+      "submitterName": "升中"
+    },
+    {
       "id": "sub-mvs6ujvc-z0whes",
       "title": "寵物巡迴車活動",
       "dateOrWindow": "2027-01-04",
@@ -3838,5 +3854,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T14:19:04.282Z"
+  "updatedAt": "2026-10-28T14:36:21.343Z"
 }
