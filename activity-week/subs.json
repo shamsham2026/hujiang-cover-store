@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvryfwny-ccfl7g",
+      "title": "ZZTEST快取測試",
+      "dateOrWindow": "2027-06-21",
+      "periods": [
+        "第1節"
+      ],
+      "venue": "406室",
+      "audience": "P.3",
+      "owner": "測試老師",
+      "subjectTeachers": "測試科任",
+      "hold": false,
+      "notes": "測試用，稍後刪除",
+      "submittedAt": "2026-10-28T10:11:38.398Z",
+      "submitterName": "測試科"
+    },
+    {
       "id": "sub-mvrw1y07-hj9fef",
       "title": "訓輔講座",
       "dateOrWindow": "2027-01-04",
@@ -3824,5 +3840,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T09:04:47.719Z"
+  "updatedAt": "2026-10-28T10:11:38.398Z"
 }
