@@ -124,7 +124,7 @@
     },
     "postexam-p4-riliji": {
       "title": "P4曆奇",
-      "dateOrWindow": "2026-12-17",
+      "dateOrWindow": "2026-12-18",
       "periods": [
         "第1節",
         "第2節",
@@ -138,7 +138,7 @@
       "hold": true,
       "notes": "來源：上學期期考後時間表（Sham 2026-10-21）。班主任節無活動。",
       "track": "期考後時間表",
-      "updatedAt": "2026-10-21T10:20:27.745Z"
+      "updatedAt": "2026-10-28T14:02:02.179Z"
     },
     "sem1-p5-gas": {
       "title": "煤氣講座",
@@ -3824,5 +3824,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-28T10:16:11.046Z"
+  "updatedAt": "2026-10-28T14:02:02.179Z"
 }
