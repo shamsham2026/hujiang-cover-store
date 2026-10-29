@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvt7t1wu-shniz0",
+      "title": "訓育講座",
+      "dateOrWindow": "2027-01-04",
+      "periods": [
+        "第2節 第3節"
+      ],
+      "venue": "",
+      "audience": "P.5、P.6、高小",
+      "owner": "袁",
+      "subjectTeachers": "",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-29T07:21:34.446Z",
+      "submitterName": "訓育"
+    },
+    {
       "id": "sub-mvt7rgfz-l0m4qz",
       "title": "訓育講座",
       "dateOrWindow": "2027-01-04",
@@ -3900,5 +3916,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-29T07:20:19.967Z"
+  "updatedAt": "2026-10-29T07:21:34.446Z"
 }
