@@ -97,7 +97,7 @@
     {
       "id": "sub-mvs6ujvc-z0whes",
       "title": "寵物巡迴車活動",
-      "dateOrWindow": "2027-01-04",
+      "dateOrWindow": "2027-01-05",
       "periods": [],
       "venue": "C 有蓋操場",
       "audience": "P.2、P.1、P.3、P.4、P.5、P.6、初小、高小",
@@ -3932,5 +3932,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-29T07:24:21.559Z"
+  "updatedAt": "2026-10-29T07:25:49.962Z"
 }
