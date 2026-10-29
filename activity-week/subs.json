@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvt7wmuv-358rse",
+      "title": "寵物車活動",
+      "dateOrWindow": "2027-01-05",
+      "periods": [
+        "全日"
+      ],
+      "venue": "C 有蓋操場",
+      "audience": "P.1、P.2、P.3、P.4、P.5、P.6、初小、高小",
+      "owner": "玉",
+      "subjectTeachers": "玉",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-29T07:24:21.559Z",
+      "submitterName": "寵物車"
+    },
+    {
       "id": "sub-mvt7t1wu-shniz0",
       "title": "訓育講座",
       "dateOrWindow": "2027-01-04",
@@ -3916,5 +3932,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-29T07:22:34.925Z"
+  "updatedAt": "2026-10-29T07:24:21.559Z"
 }
