@@ -1,6 +1,22 @@
 {
   "submissions": [
     {
+      "id": "sub-mvt7rgfz-l0m4qz",
+      "title": "訓育講座",
+      "dateOrWindow": "2027-01-04",
+      "periods": [
+        "第1節"
+      ],
+      "venue": "H 禮堂",
+      "audience": "P.3、P.4、初小、高小",
+      "owner": "袁",
+      "subjectTeachers": "",
+      "hold": false,
+      "notes": "",
+      "submittedAt": "2026-10-29T07:20:19.967Z",
+      "submitterName": "訓輔組"
+    },
+    {
       "id": "sub-mvt7qfpj-w9ote5",
       "title": "Theme-based project",
       "dateOrWindow": "2027-06-17、2027-06-18、2027-06-21、2027-06-22、2027-06-23、2027-06-24",
@@ -3884,5 +3900,5 @@
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-29T07:19:32.359Z"
+  "updatedAt": "2026-10-29T07:20:19.967Z"
 }
