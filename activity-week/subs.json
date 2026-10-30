@@ -5281,16 +5281,8 @@
       "classCode": "1A",
       "period": "第2節",
       "updatedAt": "2026-10-30T04:23:22.741Z"
-    },
-    {
-      "id": "plc-mvugvxm4-sxbgow",
-      "entryId": "sub-mvrw0qvl-oulsv2",
-      "date": "2026-01-04",
-      "classCode": "1C",
-      "period": "第3節",
-      "updatedAt": "2026-10-30T04:23:31.564Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-30T04:23:44.778Z"
+  "updatedAt": "2026-10-30T04:23:46.218Z"
 }
