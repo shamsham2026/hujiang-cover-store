@@ -5113,8 +5113,16 @@
       "classCode": "5C",
       "period": "第3節",
       "updatedAt": "2026-10-30T04:22:34.025Z"
+    },
+    {
+      "id": "plc-mvuguqaw-hwl0ky",
+      "entryId": "sub-mvrw1y07-hj9fef",
+      "date": "2026-01-04",
+      "classCode": "5C",
+      "period": "第2節",
+      "updatedAt": "2026-10-30T04:22:35.432Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-30T04:22:34.025Z"
+  "updatedAt": "2026-10-30T04:22:35.432Z"
 }
