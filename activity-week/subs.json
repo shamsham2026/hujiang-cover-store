@@ -5161,8 +5161,16 @@
       "classCode": "6D",
       "period": "第2節",
       "updatedAt": "2026-10-30T04:22:42.487Z"
+    },
+    {
+      "id": "plc-mvugux9m-i4foi6",
+      "entryId": "sub-mvrw1y07-hj9fef",
+      "date": "2026-01-04",
+      "classCode": "6D",
+      "period": "第3節",
+      "updatedAt": "2026-10-30T04:22:44.458Z"
     }
   ],
   "placementsSeeded": true,
-  "updatedAt": "2026-10-30T04:22:42.487Z"
+  "updatedAt": "2026-10-30T04:22:44.458Z"
 }
